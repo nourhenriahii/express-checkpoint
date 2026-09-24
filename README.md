@@ -1,4 +1,4 @@
-# Express Checkpoint — Portfolio (Nourhen Riahi)
+# Express Checkpoint — Portfolio 
 
 Ce projet répond au checkpoint **Express.js** : une application web à
 trois pages (Home, Our Services, Contact Us), avec navigation commune,
